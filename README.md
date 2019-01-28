@@ -9,7 +9,7 @@ Use .bat script to make a secured and password protected folder in windows
  
 ## Save the file and Rename the file as locker.bat
 
-## double click on 'locker.bat' file to edit it and find the line which says : 'your password here'. Edit this line to your custom password i.e. '12wersget'.
+## double click on 'locker_folder.bat' file to edit it and find the line which says : 'your password here'. Edit this line to your custom password i.e. '12wersget'.
 
 ## Now hit 'save as' and change the save as file type to 'All files' and hit enter
 
